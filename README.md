@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amit456218
-- 👀 I’m interested in data science projects, specifically in Python and R!
-- 🌱 I’m currently learning java through my AP CS class!
+- 👀 I’m interested in data science projects, specifically in Python and C++!
+- 🌱 I’m currently learning python, java, c++ all at UIUC.
 - 💞️ I’m looking to collaborate on anything interesting and beneficial for the community! 
 - 📫 How to reach me: my gmail amitabhgulati1@gmail.com
 
